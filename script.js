@@ -94,5 +94,3 @@ function nation() {
   reload(arrWorld, world)
 }
 nation()
-
-// сделай кнопку disabled при одном клике
